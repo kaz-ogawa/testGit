@@ -7,3 +7,5 @@ Android Studioでアプリも作ります！
 テストコミットdesudesu desuyo!!
 
 新しく行を追加します
+
+さらに新しく行を追加します
