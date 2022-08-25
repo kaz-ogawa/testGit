@@ -5,3 +5,5 @@
 Android Studioでアプリも作ります！
 
 テストコミットdesudesu
+
+新しく行を追加します
