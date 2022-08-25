@@ -4,10 +4,6 @@
 
 Android Studioでアプリも作ります！
 
-<<<<<<< HEAD
-テストコミットdesudesu
+テストコミットdesudesu desuyo!!
 
 新しく行を追加します
-=======
-テストコミットdesudesu desuyo!!
->>>>>>> origin/master
